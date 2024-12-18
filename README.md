@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabiola Villalobos</h1>
-<h3 align="center">A passionate QA Engineer Jr. from Chile</h3>
+<h3 align="center">A passionate QA Engineer from Chile</h3>
 
 - 💬 Ask me about **Pruebas automatizadas| Planeación de pruebas | documentación | pruebas Manuales | Mobile Testing IAndroid Studio | API Testing | UI Testing | Pruebas de regresión JIRA | Postman | Charles| Console | Bash | WebDriver| Selenium | JSON | Figma| DevTools I GitHub| Git**
 
