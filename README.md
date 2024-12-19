@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabiola Villalobos</h1>
 <h3 align="center">A passionate QA Engineer from Chile</h3>
-![Banner para LinkedIn Portada Moderno Aesthetic Lila Morado Pastel](https://github.com/user-attachments/assets/559189c7-032f-4d29-baea-b88cac858384)
+![(https://github.com/user-attachments/assets/559189c7-032f-4d29-baea-b88cac858384)]
 
 - 💬 Ask me about **Pruebas automatizadas| Planeación de pruebas | documentación | pruebas Manuales | Mobile Testing IAndroid Studio | API Testing | UI Testing | Pruebas de regresión JIRA | Postman | Charles| Console | Bash | WebDriver| Selenium | JSON | Figma| DevTools I GitHub| Git**
 
